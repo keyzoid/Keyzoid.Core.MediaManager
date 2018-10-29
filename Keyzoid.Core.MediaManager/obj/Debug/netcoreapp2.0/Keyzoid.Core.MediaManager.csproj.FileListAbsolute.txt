@@ -1,0 +1,12 @@
+c:\users\j\source\repos\Keyzoid.Core.MediaManager\Keyzoid.Core.MediaManager\bin\Debug\netcoreapp2.0\Keyzoid.Core.MediaManager.deps.json
+c:\users\j\source\repos\Keyzoid.Core.MediaManager\Keyzoid.Core.MediaManager\bin\Debug\netcoreapp2.0\Keyzoid.Core.MediaManager.runtimeconfig.json
+c:\users\j\source\repos\Keyzoid.Core.MediaManager\Keyzoid.Core.MediaManager\bin\Debug\netcoreapp2.0\Keyzoid.Core.MediaManager.runtimeconfig.dev.json
+c:\users\j\source\repos\Keyzoid.Core.MediaManager\Keyzoid.Core.MediaManager\bin\Debug\netcoreapp2.0\Keyzoid.Core.MediaManager.dll
+c:\users\j\source\repos\Keyzoid.Core.MediaManager\Keyzoid.Core.MediaManager\obj\Debug\netcoreapp2.0\Keyzoid.Core.MediaManager.csprojResolveAssemblyReference.cache
+c:\users\j\source\repos\Keyzoid.Core.MediaManager\Keyzoid.Core.MediaManager\obj\Debug\netcoreapp2.0\Keyzoid.Core.MediaManager.csproj.CoreCompileInputs.cache
+c:\users\j\source\repos\Keyzoid.Core.MediaManager\Keyzoid.Core.MediaManager\obj\Debug\netcoreapp2.0\Keyzoid.Core.MediaManager.AssemblyInfoInputs.cache
+c:\users\j\source\repos\Keyzoid.Core.MediaManager\Keyzoid.Core.MediaManager\obj\Debug\netcoreapp2.0\Keyzoid.Core.MediaManager.AssemblyInfo.cs
+c:\users\j\source\repos\Keyzoid.Core.MediaManager\Keyzoid.Core.MediaManager\bin\Debug\netcoreapp2.0\Keyzoid.Core.MediaManager.pdb
+c:\users\j\source\repos\Keyzoid.Core.MediaManager\Keyzoid.Core.MediaManager\obj\Debug\netcoreapp2.0\Keyzoid.Core.MediaManager.dll
+c:\users\j\source\repos\Keyzoid.Core.MediaManager\Keyzoid.Core.MediaManager\obj\Debug\netcoreapp2.0\Keyzoid.Core.MediaManager.pdb
+C:\Users\j\source\repos\Keyzoid.Core.MediaManager\Keyzoid.Core.MediaManager\bin\Debug\netcoreapp2.0\appsettings.json
